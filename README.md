@@ -51,8 +51,7 @@ Language: Dart
 
 IDE: Android Studio
 
-📸 應用程式截圖
-
-(建議在此處放幾張 App 執行截圖)
-
-Created for Midterm Project.    
+簡報
+https://www.popai.pro/zh-HK/ppt-share?shareKey=4649bbe84624ca677b8fc8611ea40e2731760d0a95bff8b69e19e4462bb15b91&utm_source=presentationsharepage
+影片
+https://drive.google.com/drive/folders/1iwxVSmtZ8fa29sHcprwmQWLat80NaxfX?usp=sharing
